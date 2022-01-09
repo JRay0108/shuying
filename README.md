@@ -6,7 +6,7 @@
 
 首页如下：
 
-<img src="./imgs/page_shot_idx.png" alt="page_shot_idx" style="zoom:33%;" />
+<img src="./imgs/page_shot_idx.png" alt="page_shot_idx"  width="380"/>
 
 功能简介：
 
@@ -29,13 +29,13 @@
 
 通过笔划、五行等测算姓名的运势，也可以测算姓名和八字是否相合。
 
-<img src="./imgs/page_shot_fortune.png" alt="page_shot_fortune" style="zoom:33%;" />
+<img src="./imgs/page_shot_fortune.png" alt="page_shot_fortune"  width="380"/>
 
 ### 3、从《诗经》《论语》等诸多典籍中取名
 
 只要提供姓氏和出生时间，就可以从诸多典籍中取名，所取的名字，均与八字相合，且五格运势均无凶者。
 
-<img src="./imgs/page_shot_new_name.png" alt="page_shot_new_name" style="zoom:33%;" />
+<img src="./imgs/page_shot_new_name.png" alt="page_shot_new_name" width="380" />
 
 
 
